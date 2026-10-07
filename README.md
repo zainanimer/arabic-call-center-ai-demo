@@ -2,28 +2,6 @@
 
 
 # Arabic Call Center AI — Local Demo<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Arabic Call Center AI: demo video</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-:root{--bg:#f5f3ff;--ink:#1e1b4b;--mut:#5b5792;--accent:#6d28d9;--card:#ffffff;--line:#ddd6fe;
-box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#1e1b4b;--ink:#ffffff;--mut:#c4b5fd;--accent:#a78bfa;--card:#16133a;--line:#3b3680}}
-:root[data-theme="dark"]{--bg:#1e1b4b;--ink:#ffffff;--mut:#c4b5fd;--accent:#a78bfa;--card:#16133a;--line:#3b3680}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:Poppins,"Segoe UI",Arial,sans-serif;line-height:1.6}
-main{max-width:880px;margin:0 auto;padding:48px 20px 56px}
-h1{font-size:clamp(28px,5vw,44px);line-height:1.15;margin:0 0 14px;font-weight:600}
-.bar{width:64px;height:5px;background:var(--accent);border-radius:3px;margin-bottom:22px}
-p.what{font-size:clamp(16px,2.4vw,19px);color:var(--mut);margin:0 0 28px;max-width:62ch}
-video{width:100%;height:auto;display:block;border-radius:12px;border:1px solid var(--line);background:#000}
-.note{margin:16px 0 0;font-size:14px;color:var(--mut)}
-.note a{color:var(--accent);font-weight:500}
 </style>
 </head>
 <body>
