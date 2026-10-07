@@ -1,3 +1,9 @@
+An AI tool that listens to Arabic phone calls, suggests what the agent should say, and scores how well the call went. All data is fictional. 
+Watch the demo using the link below
+https://github.com/user-attachments/assets/e0a1c9ef-c31a-4209-94f4-3a2fc3bff248
+
+
+
 # Arabic Call Center AI — Local Demo
 
 A local, privacy-first prototype showing how AI can support a call center that handles **Arabic** calls: speech-to-text, answers grounded in a knowledge base, and QA scoring. It runs from a single PowerShell script on a normal Windows laptop. There is no framework, no build step and no cloud backend, only two free-tier API keys.
