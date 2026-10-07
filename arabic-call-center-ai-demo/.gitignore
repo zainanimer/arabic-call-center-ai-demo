@@ -1,0 +1,11 @@
+elevenlabs-key.txt
+gemini-key.txt
+anthropic-key.txt
+transcripts/*.json
+*.mp3
+*.opus
+*.wav
+!hotel.mp3
+!restaurant-order.mp3
+!educational-platform.mp3
+!pizza-order.mp3
